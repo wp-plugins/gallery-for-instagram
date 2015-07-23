@@ -114,4 +114,4 @@ Please contribute to translate our plugin.  Contact at `lizarweb (at) gmail (dot
 
 == Frequently Asked Questions ==
 
-Please use WordPress [support forum](http://wordpress.org/support/plugin/photo-gallery-plugin) to ask any query regarding any issue.
+Please use WordPress [support forum](http://wordpress.org/support/plugin/gallery-for-instagram) to ask any query regarding any issue.
