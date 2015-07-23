@@ -18,6 +18,8 @@ You can display the information from your account. Image and video Gallery has C
 
 Using **[IGF id=123]** shortcode, you can publish gallery in any Page or Post in your WordPress sites.
 
+https://www.youtube.com/watch?v=204eMvyAoEo
+
 **Plugin Demo:** [Gallery Free Demo](http://demo.weblizar.com/photo-gallery-plugin-free/)
 
 > **Plugin Features**
@@ -37,6 +39,41 @@ Using **[IGF id=123]** shortcode, you can publish gallery in any Page or Post in
 
 
 
+> **Instagram Gallery pro Features**
+>
+> * Add Your Own Custom Logo On Login Form
+> * Responsive Design
+> * Instagram Widget Option
+> * Hashtag Option
+> * Rectangle/Circle Image Design Layout
+> * Unlimited Panel and button color
+> * Unlimited background color
+> * Unlimited Text color Option
+> * Unlimited counter label Color Option
+> * 11 Hover animation Effect
+> * Responsive Instagram Layout
+> * Profile header options with two different style
+> * Instagram has Unique Shortcode
+> * Shortcode Button on post or page
+> * Unique settings for each Instagram
+> * Hide/Show Instagram Title
+> * Hide/Show Heading
+> * Hide/Show Scroll
+>
+
+### Try Instagram Gallery Pro:
+
+>
+> ### Try Instagram Gallery Pro Demo: [Live Demo](http://demo.weblizar.com/instagram-gallery-pro-demo/)
+>
+> ### Try Instagram Gallery Pro Demo Admin: [Admin Demo](http://demo.weblizar.com/instagram-gallery-pro-admin-demo/)
+>
+> ### Upgrade To: [Instagram Gallery Pro](https://weblizar.com/plugins/instagram-gallery-pro/)
+>
+>
+
+
+
 If you have any question contact us at here: [Plugin Support Forum ](http://wordpress.org/support/plugin/photo-gallery-plugin) 
 
 == Installation ==
@@ -44,6 +81,15 @@ If you have any question contact us at here: [Plugin Support Forum ](http://word
 1. Upload the entire **instagram-gallery** folder to the **/wp-content/plugins/** directory.
 2. Activate the plugin through the **Plugins** menu in WordPress admin.
 3. Create new gallery, Use **[IGF id=123]** shortcode to publish your gallery into any page or post.
+
+== Screenshots ==
+
+1. Instagram Gallery
+2. Instagram Gallery on hover
+3. Instagram Gallery with different colour  
+4. Instagram Gallery Image Circle Layout in pro
+5. Instagram Gallery Settings Panel
+
 
 == Changelog ==
 
